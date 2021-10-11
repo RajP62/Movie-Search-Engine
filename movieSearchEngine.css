@@ -1,0 +1,32 @@
+#headerMain{
+    background-color: black;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    height: 8vh;
+}
+#headerMain > li{
+    color: white;
+}
+form input{
+    width: 50%;
+    height: 50px;
+}
+
+div{
+   text-align: center;
+}
+
+.movieRes{
+    margin: auto;
+}
+
+.btnGoBack{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
